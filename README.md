@@ -11,8 +11,6 @@ An Excel application that analyzing 4114 past Kickstarter projects to uncover tr
 
 [:no_entry_sign:  Limitations](#limitations)
 
-[:bookmark_tabs:  Future Research Suggestions](#suggestions)
-
 [:bust_in_silhouette:  Developer](#developer)
 
 [:email:  Questions or Comments](#questions-or-comments)
@@ -50,9 +48,8 @@ An Excel application that analyzing 4114 past Kickstarter projects to uncover tr
 ![screenshot of app](/images/Music-Subcategory.png)
 
 
-* A look at all subcategories together shows that most subcategories across all main categories did extremely well or extremely poorly. Subcategories with 100% success rate include documentaries, hardware, nonfiction, radio & podcasts, shorts, table top games, and television. Subcategories with 0% success rate include animation, art books, audio, children's books, drama, faith, fiction, food trucks, gadgets, mobile games, nature, people, places, restaurants, science fiction, translations, video games, and web.
 
-There were only eight subcategories with partial success. Those above 50% success were small batch (approximately 80%), photobooks, plays and space exploration (each approximately 65%). Those below 50% success rate include wearables (approximately 10%), makerspaces, musical, and spaces (approximately 45%).
+* There were only eight subcategories with partial success. Those above 50% success were small batch (approximately 80%), photobooks, plays and space exploration (each approximately 65%). Those below 50% success rate include wearables (approximately 10%), makerspaces, musical, and spaces (approximately 45%).
 
 ![screenshot of app](/images/Subcategory-Stacked-Column-Pivot-Chart.png)
 
@@ -73,12 +70,11 @@ There were only eight subcategories with partial success. Those above 50% succes
 
 ## <a name="limitations"></a> :no_entry_sign:  Limitations
 
-* bbb
-
-We will talk about rates though they are not very statistically significant since the sample size is so small.
-## <a name="suggestions"></a> :bookmark_tabs:  Future Research Suggestions
-
-* ccc
+* Analysis by country is limited since many countries have very few campaigns in the dataset.
+* Analysis by categories or subcategories is limited since many categories or subcategories have very few campaigns in the dataset.
+* The end date of the current data is March 2017. Campaigns after this data may impact campaigns' success rate.
+* It is unclear if this sample was a random sample or how this sample was selected.
+* There have been over 400,000 Kickstarter projects thus far. Our Dataset includes only 4114 campaigns (approximately 1%). It has not been determined whether this is a sufficiently large enough sample to be statistically significant.
 
 
 ## <a name="developer"></a> :bust_in_silhouette: Developer
