@@ -33,31 +33,29 @@ An Excel application that analyzing 4114 past Kickstarter projects to uncover tr
 
 * Games and photography had no cancelled campaigns, while all journalism campaigns were cancelled. Approximately 30% of technology campaigns were cancelled. All other campaigns were cancelled less than 15% of the time.
 
-![screenshot of app](/images/CategoryStacked-ColumnPivot-Chart.png)
-<img src="/images/CategoryStacked ColumnPivot Chart.png" height="50">
+![screenshot of app](/images/CategoryStacked-Column-Pivot-Chart.png)
+
 
 * Of the projects that reached completion (3715), almost 60% were successful (2185).
 
 ![screenshot of app](/images/Completed.png)
-<img src="/images/Completed.png" height="150">
 
 * Of a total of 4114 campaigns, the US had the most campaigns (3038).
 
 ![screenshot of app](/images/US.png)
-<img src="/images/US.png" height="150">
 
 
 * While music had the most success of any category, the majority of its subcategories either did extremely well or extremely poorly. Classical music, electronic music, metal, pop and jazz had 100% success rate, while faith, jazz and world music had 0% success rate. Indie rock has approximately 85% success rate.
 
 ![screenshot of app](/images/Music-Subcategory.png)
-<img src="/images/Music-Subcategory.png" height="150">
+
 
 * A look at all subcategories together shows that most subcategories across all main categories did extremely well or extremely poorly. Subcategories with 100% success rate include documentaries, hardware, nonfiction, radio & podcasts, shorts, table top games, and television. Subcategories with 0% success rate include animation, art books, audio, children's books, drama, faith, fiction, food trucks, gadgets, mobile games, nature, people, places, restaurants, science fiction, translations, video games, and web.
 
 There were only eight subcategories with partial success. Those above 50% success were small batch (approximately 80%), photobooks, plays and space exploration (each approximately 65%). Those below 50% success rate include wearables (approximately 10%), makerspaces, musical, and spaces (approximately 45%).
 
 ![screenshot of app](/images/Subcategory-Stacked-Column-Pivot-Chart.png)
-<img src="/images/Subcategory-Stacked-Column-Pivot-Chart.png" height="150">
+
 
 * While approximately half of all campaigns were successful (2185), campaigns had more success on some months than others. Successful campaigns fluctuated between 180 campaigns and 202 campaigns from January to April. Then successful campaigns peaked in May (234) and steadily declined until September (147). The number of successful campaigns increased from September until November (183), then hit its lowest number of successful campaigns in December (111).
 
@@ -66,12 +64,12 @@ There were only eight subcategories with partial success. Those above 50% succes
 * Cancellations fluctuated between 20 and 28 except for January (34), July (43), August (33), and November (37).
 
 ![screenshot of app](/images/Launch-Date-Pivot-Table-And-Graph.png)
-<img src="/images/Launch-Date-Pivot-Table-And-Graph.png" height="150">
+
 
 * Campaigns for less than $10,000 had the greatest success (71%), while campaigns for greater than $50,000 showed the least success (19%). Campaign success steadily decreased as the campaign amount rose from less than $10,000 (71%) to $34,999 (39%). However, campaign success increased for campaigns between $35,000 and $39,000 (47%) and for campaigns between $40,0000 and $44,999 (49%).
 
 ![screenshot of app](/images/Goals-Line-Chart.png)
-<img src="/images/Goals-Line-Chart.png" height="150">
+
 
 ## <a name="limitations"></a> :no_entry_sign:  Limitations
 
