@@ -33,13 +33,13 @@ An Excel application that analyzing 4114 past Kickstarter projects to uncover tr
 
 * Games and photography had no cancelled campaigns, while all journalism campaigns were cancelled. Approximately 30% of technology campaigns were cancelled. All other campaigns were cancelled less than 15% of the time.
 
-![screenshot of app](/images/CategoryStacked ColumnPivot Chart.png | height=35)
-
+![screenshot of app](/images/CategoryStacked ColumnPivot Chart.png)
+<img src="/images/CategoryStacked ColumnPivot Chart.png" height="50">
 
 * Of the projects that reached completion (3715), almost 60% were successful (2185).
 
-![screenshot of app](/images/Completed.png | height=35)
-
+![screenshot of app](/images/Completed.png)
+<img src="/images/Completed.png" height="50">
 
 * Of a total of 4114 campaigns, the US had the most campaigns (3038).
 
