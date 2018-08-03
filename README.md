@@ -64,7 +64,7 @@ There were only eight subcategories with partial success. Those above 50% succes
 
 * Cancellations fluctuated between 20 and 28 except for January (34), July (43), August (33), and November (37).
 
-![screenshot of app](/images/Launch-Date-Pivot-Table-and-Graph.png)
+![screenshot of app](/images/Launch-Date-Pivot-Table-And-Graph.png)
 
 
 * Campaigns for less than $10,000 had the greatest success (71%), while campaigns for greater than $50,000 showed the least success (19%). Campaign success steadily decreased as the campaign amount rose from less than $10,000 (71%) to $34,999 (39%). However, campaign success increased for campaigns between $35,000 and $39,000 (47%) and for campaigns between $40,0000 and $44,999 (49%).
