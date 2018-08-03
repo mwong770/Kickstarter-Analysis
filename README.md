@@ -72,9 +72,9 @@ An Excel application that analyzing 4114 past Kickstarter projects to uncover tr
 
 * Analysis by country is limited since many countries have very few campaigns in the dataset.
 * Analysis by categories or subcategories is limited since many categories or subcategories have very few campaigns in the dataset.
-* The end date of the current data is March 2017. Campaigns after this data may impact campaigns' success rate.
+* The end date of the current data is March 2017. Campaigns after this date may impact campaigns' success rate.
 * It is unclear if this sample was a random sample or how this sample was selected.
-* There have been over 400,000 Kickstarter projects thus far. Our Dataset includes only 4114 campaigns (approximately 1%). It has not been determined whether this is a sufficiently large enough sample to be statistically significant.
+* There have been over 400,000 Kickstarter campaigns thus far. Our Dataset includes only 4114 campaigns (approximately 1%). It has not been determined whether this is a sufficiently large enough sample to be statistically significant.
 
 
 ## <a name="developer"></a> :bust_in_silhouette: Developer
